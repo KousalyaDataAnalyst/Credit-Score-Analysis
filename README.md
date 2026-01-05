@@ -67,8 +67,6 @@ Improve credit risk management strategies
 ##  How to Run the Project
 1. Install required libraries:
 pip install pandas numpy matplotlib
-Copy code
-
 2. Open credit_score_analysis.ipynb in Jupyter Notebook
 3. Run all cells sequentially
 
