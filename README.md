@@ -52,7 +52,7 @@ Customers are classified into credit categories based on:
 
 Numeric credit scores are generated on a *300–900 scale*.
 
-![Credit Scoring Logic](screenshots/03_credit_scoring_logic.png)
+![Credit Scoring Logic](screenshots/03_credit_score_logic.png)
 
 ---
 
