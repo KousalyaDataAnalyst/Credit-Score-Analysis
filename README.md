@@ -13,8 +13,8 @@ NumPy
 Matplotlib
 Jupyter Notebook
 
-
-📂 Dataset Overview
+##Dataset Overview
+📂 Dataset Preview
 ![Dataset Preview](01_dataset_preview.png)
 ![Loan to Income Ratio](02_loan_to_income_ratio.png)
 ![Credit Scoring Logic](03_credit_score_logic.png)
@@ -27,14 +27,14 @@ Loan Amount
 Payment History
 Dataset Preview
 
-📐 Loan-to-Income Ratio Analysis
+ ##Loan-to-Income Ratio Analysis
 The Loan-to-Income Ratio (LTI) is calculated as:
 Copy code
 
 Loan_to_Income_Ratio = Loan_Amount / Income
 This metric helps assess how risky a loan is relative to a customer’s income.
 
-🧮 Credit Scoring Logic
+##Credit Scoring Logic
 Customers are classified into credit categories based on:
 Loan-to-Income Ratio
 Payment History
@@ -44,20 +44,20 @@ Average → Medium risk
 Poor → High loan burden or poor payment history
 Numeric credit scores are generated on a 300–900 scale, similar to real-world credit scoring models.
 
-📊 Summary Analysis
+## Summary Analysis
 The project generates analytical insights such as:
 Credit category distribution
 Average loan-to-income ratio by credit category
 Risk segmentation of customers
 These insights help understand overall credit risk distribution.
 
-💡 Key Insights
+##💡 Key Insights
 Customers with low loan-to-income ratios mostly fall under the Good credit category
 Higher loan burden increases default risk
 Poor payment history significantly impacts credit score
 Credit categorization helps lenders prioritize low-risk customers
 
-🏦 Business Use Case
+##Business Use Case
 This project can be used by financial institutions to:
 Assess customer credit risk
 Support loan approval decisions
