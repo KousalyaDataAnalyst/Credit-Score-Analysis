@@ -22,11 +22,11 @@ The project helps simulate real-world financial decision-making used by banks an
 ![Summary Analysis](screenshots/04_summary_analysis.png)
 
 The dataset contains customer financial information including:
-Customer Name
-Income
-Loan Amount
-Payment History
-Dataset Preview
+-Customer Name
+-Income
+-Loan Amount
+-Payment History
+-Dataset Preview
 
 ##Loan-to-Income Ratio Analysis
 The Loan-to-Income Ratio (LTI) is calculated as:
