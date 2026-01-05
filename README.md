@@ -25,12 +25,11 @@ The dataset contains customer financial details such as:
 
 - Below is a preview of the dataset used in the project:
 
-![Dataset Preview](screenshots/01_dataset_creation.png)
+![Dataset Preview](screenshots/01_dataset_preview.png)
 
 ---
 
-## Feature Engineering
-### Loan-to-Income Ratio
+## Loan-to-Income Ratio
 Loan-to-Income Ratio is calculated using:
 Loan_to_Income_Ratio = Loan_Amount / Income
 Copy code
@@ -57,7 +56,7 @@ Numeric credit scores are generated on a *300–900 scale*.
 
 ---
 
-## 📈 Summary Analysis
+## Summary Analysis
 The project includes analytical insights such as:
 - Credit category distribution
 - Average loan-to-income ratio by credit category
@@ -77,7 +76,7 @@ Copy code
 
 ---
 
-## 💼 Business Use Case
+## Business Use Case
 This project helps financial institutions to:
 - Assess customer credit risk
 - Segment customers based on financial stability
