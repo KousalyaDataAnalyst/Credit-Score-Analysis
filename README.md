@@ -6,19 +6,20 @@ This project focuses on credit risk analysis using Python from a Data Analytics 
 It evaluates customer creditworthiness by analyzing income, loan amount, and payment history, and classifies customers into different credit categories.
 The project helps simulate real-world financial decision-making used by banks and NBFCs for loan approvals and risk management.
 
+
 ##Tools & Technologies
-Python
-Pandas
-NumPy
-Matplotlib
-Jupyter Notebook
+-Python
+-Pandas
+-NumPy
+-Matplotlib
+-Jupyter Notebook
 
 ##Dataset Overview
 📂 Dataset Preview
-![Dataset Preview](01_dataset_preview.png)
-![Loan to Income Ratio](02_loan_to_income_ratio.png)
-![Credit Scoring Logic](03_credit_score_logic.png)
-![Summary Analysis](summary_analysis.png)
+![Dataset Preview](screenshots/01_dataset_preview.png)
+![Loan to Income Ratio](screenshots/02_loan_to_income_ratio.png)
+![Credit Scoring Logic](screenshots/03_credit_score_logic.png)
+![Summary Analysis](screenshots/04_summary_analysis.png)
 
 The dataset contains customer financial information including:
 Customer Name
@@ -27,7 +28,7 @@ Loan Amount
 Payment History
 Dataset Preview
 
- ##Loan-to-Income Ratio Analysis
+##Loan-to-Income Ratio Analysis
 The Loan-to-Income Ratio (LTI) is calculated as:
 Copy code
 
